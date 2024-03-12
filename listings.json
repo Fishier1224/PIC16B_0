@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/fake-news/hw6.html",
       "/posts/image-classification/index.html",
       "/posts/Heat-Equations/hw4.html",
       "/posts/Flask-Messages/HW3.html",

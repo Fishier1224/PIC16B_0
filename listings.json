@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/project/Project.html",
       "/posts/fake-news/hw6_New.html",
       "/posts/image-classification/hw5_new.html",
       "/posts/Heat-Equations/hw4.html",
